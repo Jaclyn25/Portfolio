@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Wakala Wasl — Agency & CRM Platform",
+    "description": "Delivered a full agency platform with 4+ automated workflows covering services, client requests, inquiry tracking, and follow‑ups. Built CRM‑style features for communication, request handling, and real‑time follow‑up tracking.",
+    "tech": ["ASP.NET Core", "EF Core", "SQL Server", "Angular", "CRM"],
+    "demo": "https://waselstudio.sa/",
+    "github": "",
+    "icon": "fas fa-headset",
+    "image": "/wasel.png"
+  },
+  {
+    "title": "Lawandy Motors — Engineering Platform",
+    "description": "Designed and built a company platform showcasing 5+ engineering areas including propulsion, clean energy, and intelligent systems. Structured 4+ investor‑facing content sections for clarity, credibility, and seamless navigation.",
+    "tech": ["React", "TypeScript", "Tailwind CSS", "Vercel"],
+    "demo": "https://www.lawandymotors.com/",
+    "github": "",
+    "icon": "fas fa-cogs",
+    "image": "/lawandy.png"
+  },
+  {
+    "title": "Dragon LMS — Learning Management System",
+    "description": "Full‑stack LMS supporting 3 user roles — students, instructors, and admins. Implemented dashboard workflows for progress tracking, content management, and educational automation.",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
+    "demo": "https://drzeyadmohamedmath.com/",
+    "github": "",
+    "icon": "fas fa-graduation-cap",
+    "image": "/dragon.png"
+  },
+  {
+    "title": "E‑Commerce Platform",
+    "description": "Architected a scalable backend with 5+ modules — products, orders, authentication, users, and payments. Implemented 3 secure order workflows using clean architecture and service layers.",
+    "tech": [".NET 8", "ASP.NET Core API", "EF Core", "SQL Server", "Clean Architecture"],
+    "demo": "http://e-commerce-aw.runasp.net",
+    "github": "https://github.com/amnaabdelrazek/E-commerce-ProjectApi",
+    "icon": "fas fa-shopping-cart",
+    "image": "/ecommerce.png"
+  },
+  {
+    "title": "Real Estate Platform",
+    "description": "Engineered a real estate platform covering buying, renting, and property investment. Designed 4 browsing flows including property search, filtering, details viewing, and inquiry navigation.",
+    "tech": ["ASP.NET Core", "EF Core", "SQL Server", "Angular"],
+    "demo": "http://rsp.runasp.net/",
+    "github": "https://github.com/Jaclyn25/Real_State-MVCccccc",
+    "icon": "fas fa-building",
+    "image": "/realestate.png"
+  },
+  {
+    "title": "Dalelak — Mobile Shopping Guide",
+    "description": "Graduation project: a Flutter mobile app with 3 core flows for product search, location comparison, and smart shopping guidance. Designed user‑focused journeys for faster discovery across purchasing points.",
+    "tech": ["Flutter", "Dart", "Mobile Development"],
+    "demo": "",
+    "github": "https://github.com/Eng-Mina-Refaat/Dalelak",
+    "icon": "fas fa-map-marked-alt"
+  }
+]
